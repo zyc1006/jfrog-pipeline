@@ -1,0 +1,3 @@
+myRepo:
+  gitProvider: github
+  path: zyc1006/jfrog-pipeline
